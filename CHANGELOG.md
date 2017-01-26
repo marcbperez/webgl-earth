@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Added
+
+  - Starfield element and textures.
+  - Earth element and textures.
+  - Clouds element and textures.
+
 ## 0.3.0 - 2017-02-25
 
 ### Added
