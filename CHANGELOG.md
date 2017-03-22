@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Added
+
+  - Cases for the supporting files.
+  - Cases for the build environment.
+  - Wrapper task for Gradle build script.
+  - Gradle wrapper for this project.
+  - Dockerfile and docker-compose manifest for this project.
+
+### Changed
+
+  - README file with new usage instructions.
+  - LICENSE file extension.
+
 ## 0.4.0 - 2017-01-26
 
 ### Added
