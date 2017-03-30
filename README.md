@@ -14,7 +14,7 @@ cd webgl-earth
 
 ## Usage
 
-After the installation process the contents run the `serve` task and visit
+After the installation process run the `serve` task and visit
 http://localhost:8000 to browse the project pages, it is equivalent to running
 Python's SimpleHTTPServer.
 
