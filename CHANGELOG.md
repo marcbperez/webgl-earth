@@ -3,12 +3,18 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Changed
+
+  - Source folder to docs for Github pages.
+
 ## 0.5.1 - 2017-03-30
 
 ### Fixed
 
   - Typographical errors in README usage.
-  
+
 ## 0.5.0 - 2017-03-22
 
 ### Added
